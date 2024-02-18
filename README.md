@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ingridklopez
 - 👀 I’m interested in learning how to best utilize GitHub
 - 🌱 I’m currently learning to play the ukulele
-- 😄 Pronouns: ahe/her/ella
+- 😄 Pronouns: she/her/ella
 - ⚡ Fun fact: I just ran my first 5k
 
 <!---
